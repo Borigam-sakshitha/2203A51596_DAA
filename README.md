@@ -4,9 +4,22 @@ WEEK-1 [MULTIPLICATION](https://github.com/Borigam-sakshitha/2203A51596_DAA_Batc
 
 WEEK-1 [SINGLE DIMENSIONAL ARRAY](https://github.com/Borigam-sakshitha/2203A51596_DAA_Batch-02/blob/main/WEEK-1%20SINGLE%20DIMENSIONAL%20ARRAY.c)
 
-WEEK-2[BUBBLE SORT](https://github.com/Borigam-sakshitha/2203A51596_DAA_Batch-02/blob/main/WEEK-2%20BUBBLE%20SORT.c)
+WEEK-2 [BUBBLE SORT](https://github.com/Borigam-sakshitha/2203A51596_DAA_Batch-02/blob/main/WEEK-2%20BUBBLE%20SORT.c)
 
-WEEK-2[INSERTION SORT](https://github.com/Borigam-sakshitha/2203A51596_DAA_Batch-02/blob/main/WEEK-2%20INSERTION%20SORT.c)
+WEEK-2 [INSERTION SORT](https://github.com/Borigam-sakshitha/2203A51596_DAA_Batch-02/blob/main/WEEK-2%20INSERTION%20SORT.c)
 
-WEEK-2[SELECTION SORT](
+WEEK-2 [SELECTION SORT](https://github.com/Borigam-sakshitha/2203A51596_DAA_Batch-02/blob/main/WEEK-2%20SELECTIONSORT.c)
+
+WEEK-3 [BOOK PRICE](
+
+WEEK-3 [TRACKING NUMBER](
+
+WEEK-3 [PRODUCT PRICE](
+
+WEEK-3 [DESTINATION](
+
+WEEK-3 [PRODUCT ID](
+
+WEEK-3 [PRIORITY](
+
 
